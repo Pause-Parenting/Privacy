@@ -52,7 +52,7 @@ We collect and process the following personal data:
 
 * Data is retained as long as the user profile is active.
 * Inactive profiles are deleted after one year of inactivity.
-* 
+
 ### Updates to the Privacy Policy
 
 Users will be notified of any changes to this privacy policy via the app.
